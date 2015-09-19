@@ -1,0 +1,119 @@
+body {
+margin: 0;
+font-size: 16px;
+font-family:'Avenir Next', sans-serif;
+background-color: #FCFDFF;
+}
+h1 {
+  font-size: 3rem;
+  font-weight: 700;
+}
+.subtitle {
+  font-size: 2.5rem;
+  font-weight: 300;
+  margin-top: 10rem;
+}
+.maincontent {
+  margin-top: 14rem;
+}
+.frontfeature > h2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+.margintop {
+  margin-top: 10rem;
+}
+.frontfeature {
+  font-size: 2rem;
+}
+.center {
+  text-align: center;
+}
+.grey {
+  background-color: #cacaca;
+}
+.bigcta {
+    font-size: 2.5rem;
+    font-weight: 600;
+}
+.frontcta {
+
+  margin-top: 5rem;
+}
+.avatar {
+  border-radius: 50px;
+  width: 5rem;
+}
+.quotewrapper {
+  background-color: #cacaca;
+}
+.commonquoteelements {
+  font-size: 2rem;
+  font-weight: 700;
+  display: block;
+}
+.commontquotelabels {
+  font-size: 2rem;
+  font-weight: 400;
+  display: block;
+  color: #737373;
+}
+.deliverydatevalue {
+font-size: 3rem;
+}
+.finalpricevalue {
+font-size: 3rem;
+}
+.quotewrapper {
+  position: relative;
+  padding: 3rem;
+  display: inline-block;
+  border-radius: 3px;
+  background-color: #E8E8E8;
+  border-style: solid;
+  border-width: 0.2rem;
+  border-color: #D7D7D7;
+}
+.quoteorder {
+  background-color: grey;
+  padding: 1rem;
+  position: absolute;
+  top: 95%;
+}
+.quotefeatures {
+  padding-left: 8rem;
+  font-size: 2.3rem;
+}
+form {
+  font-size: 2rem;
+  font-weight: 400;
+}
+form > div > label {
+  font-weight: 400;
+}
+#formelement {
+  display: inline-block;
+}
+.right {
+  float: right;
+}
+.dashboardrow {
+  background-color: #cacaca;
+  padding: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.userrow {
+  background-color: #cacaca;
+  padding: 1.5rem;
+  margin-right: 0.5rem;
+}
+.bigimage {
+  background-image: url(http://dfsm9194vna0o.cloudfront.net/976356-0-bg1.jpg)
+}
+@font-face {
+    font-family:'Avenir Next';
+    src:url("http://petithacks.com/app/assests/fonts/AvenirNextLTPro-Regular.otf");
+    src:url("http://petithacks.com/app/assests/fonts/AvenirNextLTPro-Bold.otf");
+    src:url("http://petithacks.com/app/assests/fonts/GothamBlack.otf");
+    src:url("http://petithacks.com/app/assests/fonts/GothamBold.otf")
+}
