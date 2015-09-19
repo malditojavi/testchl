@@ -108,7 +108,18 @@ form > div > label {
   margin-right: 0.5rem;
 }
 .bigimage {
+  padding: 4rem 0rem 4rem 0rem;
   background-image: url(http://dfsm9194vna0o.cloudfront.net/976356-0-bg1.jpg)
+}
+.buttoncustom {
+  background-color: #4497f6;
+  color: white;
+  padding: 2rem 3rem 2rem 3rem;
+  margin: 1rem;
+}
+.thumbnailitem {
+  width: 5rem;
+  display: block;
 }
 @font-face {
     font-family:'Avenir Next';
