@@ -112,6 +112,7 @@ form > div > label {
   background-image: url(http://dfsm9194vna0o.cloudfront.net/976356-0-bg1.jpg)
 }
 .buttoncustom {
+  text-align: center;
   font-size: 2rem;
   border-radius: 3px;
   background-color: #4497f6;
@@ -120,7 +121,8 @@ form > div > label {
   margin: 1rem;
 }
 .thumbnailitem {
-  width: 5rem;
+  margin: 0 auto;
+  width: 12rem;
   display: block;
 }
 @font-face {
