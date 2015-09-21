@@ -129,6 +129,15 @@ form > div > label {
     /* margin: 0.5rem; */
     border-radius: 3px;
 }
+.thumbnailitembig {
+  margin: 0 auto;
+  display: block;
+      width: 15rem;
+    text-align: center;
+    /* padding: 1rem; */
+    /* margin: 0.5rem; */
+    border-radius: 3px;
+}
 
 .testimonials  {
   margin-top: 5rem;
