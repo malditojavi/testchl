@@ -122,8 +122,14 @@ form > div > label {
 }
 .thumbnailitem {
   margin: 0 auto;
-  width: 12rem;
+
   display: block;
+      width: 5rem;
+    text-align: center;
+    background-color: lightcyan;
+    /* padding: 1rem; */
+    /* margin: 0.5rem; */
+    border-radius: 3px;
 }
 
 .testimonials  {
