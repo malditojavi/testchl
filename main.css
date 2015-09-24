@@ -166,7 +166,8 @@ font-size: 1.4rem;
     src:url("http://petithacks.com/app/assests/fonts/GothamBlack.otf");
     src:url("http://petithacks.com/app/assests/fonts/GothamBold.otf")
 }
-.body > div:nth-child(5) > table > thead > tr > th:nth-child(2) {
+
+body > div:nth-child(5) > table > thead > tr > th:nth-child(2) {
 background-color: #4497f6;
 font-size: 3rem;
 font-weight: 600;
