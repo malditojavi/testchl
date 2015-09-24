@@ -180,3 +180,11 @@ font-weight: 600;
 color: white;
 
 }
+.toptableheading {
+display: block;
+font-size: 2rem;
+}
+.bottomtableheading {
+display: block;
+font-size: 2.5rem;
+}
