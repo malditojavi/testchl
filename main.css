@@ -218,5 +218,5 @@ text-align: center;
   margin: 1rem;
 }
 body > div.ss-form-container > div.ss-top-of-page > div > h1 {
-  color: yellow;
+  color: yellow !important;
 }
