@@ -148,7 +148,7 @@ form > div > label {
 }
 .menuitem {
   display: inline-block;
-  width: 25%
+  margin: 0rem 2rem 0rem 2rem;
 }
 .breadcrumb {
   background-color: #f1f1f1;
