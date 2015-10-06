@@ -230,3 +230,6 @@ body > div.ss-form-container > div.ss-top-of-page > div > h1 {
   color: black !important;
   background-color: #dadada;
 }
+.footeritem {
+  margin-left: 2rem;
+}
