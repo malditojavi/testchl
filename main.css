@@ -217,6 +217,9 @@ text-align: center;
   padding: 2rem 3rem 2rem 3rem;
   margin: 1rem;
 }
+body > div:nth-child(2) > a:nth-child(6) {
+  color: white;
+}
 body > div.ss-form-container > div.ss-top-of-page > div > h1 {
   color: yellow !important;
 }
