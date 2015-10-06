@@ -220,6 +220,9 @@ text-align: center;
 .serviciodiv > a {
   color: white;
 }
+.serviciodiv:hover {
+  background-color: #85919E;
+}
 body > div.ss-form-container > div.ss-top-of-page > div > h1 {
   color: yellow !important;
 }
