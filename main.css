@@ -255,5 +255,11 @@ body > div.ss-form-container > div.ss-top-of-page > div > h1 {
   font-weight: 400;
 }
 #ss-form > ol > div:nth-child(3) > div > div {
-  margin: 3rem;
+  margin-top: 3rem;
+}
+#ss-form > ol > div.ss-item.ss-navigate {
+  text-align: center;
+}
+#ss-form > ol > div:nth-child(2) > div > div > label > div.ss-q-title {
+    margin-top: 3rem;
 }
