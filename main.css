@@ -239,3 +239,6 @@ body > div.ss-form-container > div.ss-top-of-page > div > h1 {
 .footeritem {
   margin-left: 2rem;
 }
+.body > div:nth-child(16) {
+  display: none;
+}
