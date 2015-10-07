@@ -37,7 +37,6 @@ h1 {
     font-weight: 600;
 }
 .frontcta {
-
   margin-top: 5rem;
 }
 .avatar {
@@ -241,4 +240,20 @@ body > div.ss-form-container > div.ss-top-of-page > div > h1 {
 }
 .body > div:nth-child(16) {
   display: none;
+}
+#ss-form > ol > div:nth-child(1) > div > div > label > div.ss-q-title {
+  font-weight: 400;
+  margin-bottom: 3rem;
+}
+#ss-form > ol > div:nth-child(1) > div > div > ul {
+  list-style-type: none;
+}
+#ss-form > ol > div:nth-child(2) > div > div > label > div.ss-q-title {
+   margin-bottom: 3rem;
+}
+#ss-form > ol > div:nth-child(2) > div > div > label > div.ss-q-help.ss-secondary-text {
+  font-weight: 400;
+}
+#ss-form > ol > div:nth-child(3) > div > div {
+  margin: 3rem;
 }
