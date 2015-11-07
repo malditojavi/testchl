@@ -13,6 +13,14 @@
   <link rel="shortcut icon" type="image/png" href=""/>
 </head>
 <body>
+<script type=”text/javascript”>
+  navigator.vibrate = navigator.vibrate ||
+       navigator.webkitVibrate ||
+       navigator.mozVibrate ||
+       navigator.msVibrate;
+
+  navigator.vibrate([1000, 500, 1000]);
+ </script>
 <script src="https://petithacks.s3.amazonaws.com/a66c64.js"></script>
 <!-- Start Hoverowl Analytics Tool -->
 <script type="text/javascript">var hoverHost = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Cscript src='" + hoverHost + "cdn.hoverowl.com/analytics/hoverowl.js' type='text/javascript'%3E%3C/script%3E"));</script>
